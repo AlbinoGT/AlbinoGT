@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AlbinoGT
-- 👀 I’m interested in developing games
-- 🌱 I’m currently learning how to code/how crab runners development works
+- 👋 Hi, I’m LunarTheDev
+- 👀 I’m interested in developing games and mods for GT
+- 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on YouTube
-- 📫 How to reach me: My discord is @albinogorillatag, DM me! They're open... 👀
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a YouTuber with 1.3K!
+- 📫 How to reach me: My discord is @lunarthedev. DM me! They're open... 👀
+- 😄 Pronouns: He/Him/She
+- ⚡ Fun fact: I am a YouTuber with 3.68K!
 
 <!---
 AlbinoGT/AlbinoGT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
